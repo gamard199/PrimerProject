@@ -22,5 +22,11 @@ total = precioUnidad * cantidad;
 
 alert("El valor total de la compra es: " + "$ " + total);
 
+var camisetas = "5";
+var pantalones = 5;
+var totalArticulos = Number(camisetas) + pantalones;
+
+alert(totalArticulos);
+
 
 
