@@ -7,3 +7,5 @@ var edad = 30;
 alert(nombre);
 
 alert(5+4*8);
+
+alert((5+4)*8);
