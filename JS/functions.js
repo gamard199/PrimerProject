@@ -28,5 +28,11 @@ var totalArticulos = Number(camisetas) + pantalones;
 
 alert(totalArticulos);
 
+var articulos = [];
+
+articulos.push(prompt("Ingrese articulo que quiere comprar: "));
+
+alert("Nuevo articulo: " + articulos[articulos.length-1]);
+
 
 
